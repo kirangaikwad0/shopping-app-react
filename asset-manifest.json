@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping-app-react/static/css/main.75e4aaa8.css",
+    "main.js": "/shopping-app-react/static/js/main.c4886b86.js",
+    "index.html": "/shopping-app-react/index.html",
+    "main.75e4aaa8.css.map": "/shopping-app-react/static/css/main.75e4aaa8.css.map",
+    "main.c4886b86.js.map": "/shopping-app-react/static/js/main.c4886b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e4aaa8.css",
+    "static/js/main.c4886b86.js"
+  ]
+}
